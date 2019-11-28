@@ -1,0 +1,1 @@
+https://camel.apache.org/components/latest/spring-boot.html
