@@ -1,4 +1,4 @@
-package org.isegodin.eval.camel.demo.config;
+package org.isegodin.example.spring.camel.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package org.isegodin.eval.camel.demo;
+package org.isegodin.example.spring.camel;
 
 import org.apache.camel.component.activemq.springboot.ActiveMQComponentAutoConfiguration;
 import org.springframework.boot.SpringApplication;

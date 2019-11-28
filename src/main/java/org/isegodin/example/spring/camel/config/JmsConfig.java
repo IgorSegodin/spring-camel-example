@@ -1,4 +1,4 @@
-package org.isegodin.eval.camel.demo.config;
+package org.isegodin.example.spring.camel.config;
 
 import org.apache.activemq.jms.pool.PooledConnectionFactory;
 import org.apache.camel.component.amqp.AMQPComponent;

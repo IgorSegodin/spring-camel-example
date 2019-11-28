@@ -9,11 +9,11 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>org.isegodin.eval</groupId>
-    <artifactId>camel-demo</artifactId>
+    <groupId>org.isegodin.example</groupId>
+    <artifactId>spring-camel-example</artifactId>
     <version>0.0.1</version>
-    <name>camel-demo</name>
-    <description>Demo project for Camel</description>
+    <name>spring-camel-example</name>
+    <description>Example project for Spring with Camel and ActiveMQ</description>
 
     <properties>
         <java.version>1.8</java.version>
