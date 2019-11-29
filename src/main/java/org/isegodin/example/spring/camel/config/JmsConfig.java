@@ -24,7 +24,7 @@ public class JmsConfig {
 
         PooledConnectionFactory pooledConnectionFactory = new PooledConnectionFactory();
         pooledConnectionFactory.setConnectionFactory(jmsConnectionFactory);
-        pooledConnectionFactory.setMaxConnections(10);
+        pooledConnectionFactory.setMaxConnections(2);
 //        pooledConnectionFactory.setExpiryTimeout();
         pooledConnectionFactory.setIdleTimeout((int) TimeUnit.MINUTES.toMillis(10));
 
